@@ -1,0 +1,520 @@
+[I 240127 20:27:18 main:19] Connecting to database...
+[I 240127 20:27:23 client:33] Creating client socket.
+[I 240127 20:27:23 client:22] Retrieving target ip address...
+[E 240127 20:27:23 network:58] Device not found.
+[I 240127 20:27:45 main:19] Connecting to database...
+[I 240127 20:27:50 client:33] Creating client socket.
+[I 240127 20:27:50 client:22] Retrieving target ip address...
+[I 240127 20:27:50 client:24] target ip address: 192.168.72.254.
+[I 240127 20:36:26 main:19] Connecting to database...
+[I 240127 20:36:35 client:33] Creating client socket.
+[I 240127 20:36:35 client:22] Retrieving target ip address...
+[I 240127 20:36:35 client:24] target ip address: 192.168.72.254.
+[I 240127 20:36:35 task:61] Backup folder created successfully!
+[I 240127 20:36:35 task:64] Pen drives located: .
+[W 240127 20:36:45 task:73] No new pen drive.
+[W 240127 20:36:55 task:73] No new pen drive.
+[I 240127 20:38:04 main:19] Connecting to database...
+[I 240127 20:38:13 client:33] Creating client socket.
+[I 240127 20:38:13 client:22] Retrieving target ip address...
+[I 240127 20:38:13 client:24] target ip address: 192.168.72.254.
+[I 240127 20:38:13 task:64] Pen drives located: .
+[I 240127 21:11:40 main:19] Connecting to database...
+[I 240127 21:11:49 client:33] Creating client socket.
+[I 240127 21:11:49 client:22] Retrieving target ip address...
+[I 240127 21:11:49 client:24] target ip address: 192.168.72.254.
+[I 240127 21:11:49 task:64] Pen drives located: .
+[W 240127 21:11:59 task:73] No new pen drive.
+[W 240127 21:12:09 task:73] No new pen drive.
+[W 240127 21:12:19 task:73] No new pen drive.
+[W 240127 21:12:29 task:73] No new pen drive.
+[I 240127 21:12:39 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 21:12:39 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/database.py' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.py' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.py' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.py' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/task.py' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/settings.json' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/main.py' added to the database with status 'not sent'.
+[I 240127 21:12:39 database:29] File path '/home/kali/Desktop/popcorn/client/backup/client.py' added to the database with status 'not sent'.
+[I 240127 21:12:39 task:77] Files saved successfully!
+[W 240127 21:12:49 task:73] No new pen drive.
+[W 240127 21:12:59 task:73] No new pen drive.
+[W 240127 21:13:09 task:73] No new pen drive.
+[W 240127 21:13:19 task:73] No new pen drive.
+[W 240127 21:13:29 task:73] No new pen drive.
+[I 240127 21:15:20 main:19] Connecting to database...
+[I 240127 21:15:29 client:33] Creating client socket.
+[I 240127 21:15:29 client:22] Retrieving target ip address...
+[I 240127 21:15:29 client:24] target ip address: 192.168.72.254.
+[I 240127 21:15:29 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[W 240127 21:15:39 task:73] No new pen drive.
+[W 240127 21:15:49 task:73] No new pen drive.
+[W 240127 21:15:59 task:73] No new pen drive.
+[W 240127 21:16:09 task:73] No new pen drive.
+[I 240127 21:17:51 main:19] Connecting to database...
+[I 240127 21:18:00 client:33] Creating client socket.
+[I 240127 21:18:00 client:22] Retrieving target ip address...
+[I 240127 21:18:00 client:24] target ip address: 192.168.72.254.
+[I 240127 21:18:00 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[W 240127 21:18:10 task:73] No new pen drive.
+[I 240127 21:19:07 main:19] Connecting to database...
+[I 240127 21:19:16 client:33] Creating client socket.
+[I 240127 21:19:16 client:22] Retrieving target ip address...
+[I 240127 21:19:16 client:24] target ip address: 192.168.72.254.
+[I 240127 21:19:16 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[W 240127 21:19:26 task:73] No new pen drive.
+[I 240127 21:19:49 main:19] Connecting to database...
+[I 240127 21:19:58 client:33] Creating client socket.
+[I 240127 21:19:58 client:22] Retrieving target ip address...
+[I 240127 21:19:58 client:24] target ip address: 192.168.72.254.
+[I 240127 21:21:46 main:19] Connecting to database...
+[I 240127 21:21:55 client:33] Creating client socket.
+[I 240127 21:21:55 client:22] Retrieving target ip address...
+[I 240127 21:21:55 client:24] target ip address: 192.168.72.254.
+[I 240127 21:21:55 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[I 240127 21:23:55 main:19] Connecting to database...
+[I 240127 21:24:04 client:33] Creating client socket.
+[I 240127 21:24:04 client:22] Retrieving target ip address...
+[I 240127 21:24:04 client:24] target ip address: 192.168.72.254.
+[I 240127 21:24:04 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[I 240127 21:24:45 main:19] Connecting to database...
+[I 240127 21:24:54 client:33] Creating client socket.
+[I 240127 21:24:54 client:22] Retrieving target ip address...
+[I 240127 21:24:54 client:24] target ip address: 192.168.72.254.
+[I 240127 21:24:54 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[I 240127 21:25:53 main:19] Connecting to database...
+[I 240127 21:26:02 client:33] Creating client socket.
+[I 240127 21:26:02 client:22] Retrieving target ip address...
+[I 240127 21:26:02 client:24] target ip address: 192.168.72.254.
+[I 240127 21:28:45 main:19] Connecting to database...
+[I 240127 21:28:53 client:33] Creating client socket.
+[I 240127 21:28:53 client:22] Retrieving target ip address...
+[I 240127 21:28:53 client:24] target ip address: 192.168.72.254.
+[I 240127 21:28:53 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[I 240127 21:29:28 main:19] Connecting to database...
+[I 240127 21:29:37 client:33] Creating client socket.
+[I 240127 21:29:37 client:22] Retrieving target ip address...
+[I 240127 21:29:37 client:24] target ip address: 192.168.72.254.
+[I 240127 21:29:37 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[I 240127 21:29:37 database:75] Status for file path '(1, '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(2, '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(3, '/home/kali/Desktop/popcorn/client/backup/requirements.txt', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(4, '/home/kali/Desktop/popcorn/client/backup/database.py', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(5, '/home/kali/Desktop/popcorn/client/backup/device.py', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(6, '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(7, '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(8, '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(9, '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(10, '/home/kali/Desktop/popcorn/client/backup/__init__.py', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(11, '/home/kali/Desktop/popcorn/client/backup/network.py', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(12, '/home/kali/Desktop/popcorn/client/backup/task.py', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(13, '/home/kali/Desktop/popcorn/client/backup/settings.json', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(14, '/home/kali/Desktop/popcorn/client/backup/main.py', 'not sent')' set to 'sent'.
+[I 240127 21:29:37 database:75] Status for file path '(15, '/home/kali/Desktop/popcorn/client/backup/client.py', 'not sent')' set to 'sent'.
+[W 240127 21:29:47 task:73] No new pen drive.
+[W 240127 21:29:57 task:73] No new pen drive.
+[I 240127 23:07:36 main:19] Connecting to database...
+[I 240127 23:07:41 client:33] Creating client socket.
+[I 240127 23:07:41 client:22] Retrieving target ip address...
+[E 240127 23:07:41 network:57] Device not found.
+[I 240127 23:07:51 main:19] Connecting to database...
+[I 240127 23:07:57 main:19] Connecting to database...
+[I 240127 23:08:06 client:33] Creating client socket.
+[I 240127 23:08:06 client:22] Retrieving target ip address...
+[I 240127 23:08:06 client:24] target ip address: 192.168.72.254.
+[I 240127 23:08:06 task:61] Backup folder created successfully!
+[I 240127 23:08:06 task:64] Pen drives located: .
+[I 240127 23:08:16 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 23:08:16 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 database:29] File path 'h' added to the database with status 'not sent'.
+[I 240127 23:08:16 task:77] Files saved successfully!
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.py' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.py' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.py' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/task.py' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/settings.json' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/main.py' set to 'sent'.
+[I 240127 23:08:21 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/client.py' set to 'sent'.
+[W 240127 23:08:26 task:73] No new pen drive.
+[W 240127 23:08:36 task:73] No new pen drive.
+[I 240127 23:11:36 main:19] Connecting to database...
+[I 240127 23:11:45 client:33] Creating client socket.
+[I 240127 23:11:45 client:22] Retrieving target ip address...
+[I 240127 23:11:45 client:24] target ip address: 192.168.72.254.
+[I 240127 23:11:45 task:61] Backup folder created successfully!
+[I 240127 23:11:45 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[W 240127 23:11:55 task:73] No new pen drive.
+[I 240127 23:12:11 main:19] Connecting to database...
+[I 240127 23:12:20 client:33] Creating client socket.
+[I 240127 23:12:20 client:22] Retrieving target ip address...
+[I 240127 23:12:20 client:24] target ip address: 192.168.72.254.
+[I 240127 23:12:20 task:64] Pen drives located: .
+[W 240127 23:12:30 task:73] No new pen drive.
+[I 240127 23:12:40 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 23:12:40 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/database.py' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.py' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.py' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.py' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/task.py' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/settings.json' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/main.py' added to the database with status 'not sent'.
+[I 240127 23:12:40 database:29] File path '/home/kali/Desktop/popcorn/client/backup/client.py' added to the database with status 'not sent'.
+[I 240127 23:12:40 task:77] Files saved successfully!
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.py' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.py' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.py' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/task.py' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/settings.json' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/main.py' set to 'sent'.
+[I 240127 23:12:50 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/client.py' set to 'sent'.
+[W 240127 23:12:50 task:73] No new pen drive.
+[W 240127 23:13:00 task:73] No new pen drive.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.py' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.py' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.py' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/task.py' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/settings.json' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/main.py' set to 'sent'.
+[I 240127 23:13:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/client.py' set to 'sent'.
+[W 240127 23:13:10 task:73] No new pen drive.
+[W 240127 23:13:20 task:73] No new pen drive.
+[I 240127 23:20:11 main:19] Connecting to database...
+[I 240127 23:20:20 client:33] Creating client socket.
+[I 240127 23:20:20 client:22] Retrieving target ip address...
+[I 240127 23:20:20 client:24] target ip address: 192.168.72.254.
+[I 240127 23:20:20 task:61] Backup folder created successfully!
+[I 240127 23:20:20 task:64] Pen drives located: /media/kali/IRM_CPRNA_X.
+[I 240127 23:20:29 main:19] Connecting to database...
+[I 240127 23:20:38 client:33] Creating client socket.
+[I 240127 23:20:38 client:22] Retrieving target ip address...
+[I 240127 23:20:38 client:24] target ip address: 192.168.72.254.
+[I 240127 23:20:38 task:64] Pen drives located: .
+[I 240127 23:20:48 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 23:20:48 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/database.py' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.py' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.py' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.py' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/task.py' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/settings.json' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/main.py' added to the database with status 'not sent'.
+[I 240127 23:20:48 database:29] File path '/home/kali/Desktop/popcorn/client/backup/client.py' added to the database with status 'not sent'.
+[I 240127 23:20:48 task:77] Files saved successfully!
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.py' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.py' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.py' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/task.py' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/settings.json' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/main.py' set to 'sent'.
+[I 240127 23:20:53 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/client.py' set to 'sent'.
+[W 240127 23:20:58 task:73] No new pen drive.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.py' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.py' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.py' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/task.py' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/settings.json' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/main.py' set to 'sent'.
+[I 240127 23:21:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/client.py' set to 'sent'.
+[W 240127 23:21:08 task:73] No new pen drive.
+[W 240127 23:21:18 task:73] No new pen drive.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.py' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.py' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.py' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/task.py' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/settings.json' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/main.py' set to 'sent'.
+[I 240127 23:21:23 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/client.py' set to 'sent'.
+[I 240127 23:23:35 main:19] Connecting to database...
+[I 240127 23:24:12 main:19] Connecting to database...
+[I 240127 23:24:21 client:33] Creating client socket.
+[I 240127 23:24:21 client:22] Retrieving target ip address...
+[I 240127 23:24:21 client:24] target ip address: 192.168.72.254.
+[I 240127 23:24:21 task:61] Backup folder created successfully!
+[I 240127 23:24:21 task:64] Pen drives located: .
+[W 240127 23:24:31 task:73] No new pen drive.
+[I 240127 23:24:41 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 23:24:41 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/database.py' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.py' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.py' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.py' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/task.py' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/settings.json' added to the database with status 'not sent'.
+[I 240127 23:24:41 database:29] File path '/home/kali/Desktop/popcorn/client/backup/main.py' added to the database with status 'not sent'.
+[I 240127 23:24:42 database:29] File path '/home/kali/Desktop/popcorn/client/backup/client.py' added to the database with status 'not sent'.
+[I 240127 23:24:42 task:77] Files saved successfully!
+[I 240127 23:24:51 database:75] Status for file path 'h' set to 'sent'.
+[I 240127 23:24:51 database:75] Status for file path 'h' set to 'sent'.
+[I 240127 23:24:51 database:75] Status for file path 'h' set to 'sent'.
+[I 240127 23:24:51 database:75] Status for file path 'h' set to 'sent'.
+[I 240127 23:24:51 database:75] Status for file path 'h' set to 'sent'.
+[I 240127 23:24:51 database:75] Status for file path 'h' set to 'sent'.
+[I 240127 23:24:51 database:75] Status for file path 'h' set to 'sent'.
+[I 240127 23:24:51 database:75] Status for file path 'h' set to 'sent'.
+[W 240127 23:24:52 task:73] No new pen drive.
+[W 240127 23:25:02 task:73] No new pen drive.
+[I 240127 23:30:33 main:19] Connecting to database...
+[I 240127 23:30:42 client:33] Creating client socket.
+[I 240127 23:30:42 client:22] Retrieving target ip address...
+[I 240127 23:30:42 client:24] target ip address: 192.168.72.254.
+[I 240127 23:30:42 task:61] Backup folder created successfully!
+[I 240127 23:30:42 task:64] Pen drives located: .
+[I 240127 23:30:52 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 23:30:52 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/database.py' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.py' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.py' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.py' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/task.py' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/settings.json' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/main.py' added to the database with status 'not sent'.
+[I 240127 23:30:52 database:29] File path '/home/kali/Desktop/popcorn/client/backup/client.py' added to the database with status 'not sent'.
+[I 240127 23:30:52 task:77] Files saved successfully!
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.py' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.py' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.py' set to 'sent'.
+[I 240127 23:30:57 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/task.py' set to 'sent'.
+[W 240127 23:31:02 task:73] No new pen drive.
+[I 240127 23:34:24 main:19] Connecting to database...
+[I 240127 23:34:33 client:33] Creating client socket.
+[I 240127 23:34:33 client:22] Retrieving target ip address...
+[I 240127 23:34:33 client:24] target ip address: 192.168.72.254.
+[I 240127 23:34:33 task:61] Backup folder created successfully!
+[I 240127 23:34:33 task:64] Pen drives located: .
+[I 240127 23:34:43 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 23:34:43 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/database.py' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.py' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.py' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.py' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/task.py' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/settings.json' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/main.py' added to the database with status 'not sent'.
+[I 240127 23:34:43 database:29] File path '/home/kali/Desktop/popcorn/client/backup/client.py' added to the database with status 'not sent'.
+[I 240127 23:34:43 task:77] Files saved successfully!
+[I 240127 23:34:48 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:34:48 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:34:48 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[W 240127 23:34:53 task:73] No new pen drive.
+[I 240127 23:35:32 main:19] Connecting to database...
+[I 240127 23:35:41 client:33] Creating client socket.
+[I 240127 23:35:41 client:22] Retrieving target ip address...
+[I 240127 23:35:41 client:24] target ip address: 192.168.72.254.
+[I 240127 23:35:41 task:61] Backup folder created successfully!
+[I 240127 23:35:41 task:64] Pen drives located: .
+[I 240127 23:35:51 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 23:35:51 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/database.py' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.py' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.py' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.py' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/task.py' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/settings.json' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/main.py' added to the database with status 'not sent'.
+[I 240127 23:35:51 database:29] File path '/home/kali/Desktop/popcorn/client/backup/client.py' added to the database with status 'not sent'.
+[I 240127 23:35:51 task:77] Files saved successfully!
+[I 240127 23:35:56 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:35:56 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:35:56 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:35:56 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[I 240127 23:35:56 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.py' set to 'sent'.
+[I 240127 23:35:56 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' set to 'sent'.
+[I 240127 23:35:56 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' set to 'sent'.
+[I 240127 23:35:56 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' set to 'sent'.
+[W 240127 23:36:01 task:73] No new pen drive.
+[W 240127 23:36:11 task:73] No new pen drive.
+[I 240127 23:37:00 main:19] Connecting to database...
+[I 240127 23:37:41 main:19] Connecting to database...
+[I 240127 23:37:50 client:33] Creating client socket.
+[I 240127 23:37:50 client:22] Retrieving target ip address...
+[I 240127 23:37:50 client:24] target ip address: 192.168.72.254.
+[I 240127 23:37:50 task:61] Backup folder created successfully!
+[I 240127 23:37:50 task:64] Pen drives located: .
+[I 240127 23:38:00 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 23:38:00 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/database.py' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.py' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.py' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.py' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/task.py' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/settings.json' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/main.py' added to the database with status 'not sent'.
+[I 240127 23:38:00 database:29] File path '/home/kali/Desktop/popcorn/client/backup/client.py' added to the database with status 'not sent'.
+[I 240127 23:38:00 task:77] Files saved successfully!
+[I 240127 23:38:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:38:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:38:05 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:38:06 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[W 240127 23:38:10 task:73] No new pen drive.
+[I 240127 23:40:27 main:19] Connecting to database...
+[I 240127 23:40:36 client:33] Creating client socket.
+[I 240127 23:40:36 client:22] Retrieving target ip address...
+[I 240127 23:40:36 client:24] target ip address: 192.168.72.254.
+[I 240127 23:40:36 task:64] Pen drives located: .
+[W 240127 23:40:46 task:73] No new pen drive.
+[I 240127 23:40:56 task:71] New pen drives: /media/kali/IRM_CPRNA_X.
+[I 240127 23:40:56 task:75] Saving files from /media/kali/IRM_CPRNA_X...
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/database.py' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.py' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/__init__.py' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/network.py' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/task.py' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/settings.json' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/main.py' added to the database with status 'not sent'.
+[I 240127 23:40:56 database:29] File path '/home/kali/Desktop/popcorn/client/backup/client.py' added to the database with status 'not sent'.
+[I 240127 23:40:56 task:77] Files saved successfully!
+[W 240127 23:41:06 task:73] No new pen drive.
+[I 240127 23:41:06 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/IndexerVolumeGuid' set to 'sent'.
+[I 240127 23:41:06 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/WPSettings.dat' set to 'sent'.
+[I 240127 23:41:07 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/requirements.txt' set to 'sent'.
+[I 240127 23:41:07 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/database.py' set to 'sent'.
+[I 240127 23:41:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.py' set to 'sent'.
+[I 240127 23:41:08 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/log.cpython-311.pyc' set to 'sent'.
+[I 240127 23:41:09 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.cpython-311.pyc' set to 'sent'.
+[I 240127 23:41:09 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.cpython-311.pyc' set to 'sent'.
+[I 240127 23:41:10 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/device.cpython-311.pyc' set to 'sent'.
+[I 240127 23:41:10 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/__init__.py' set to 'sent'.
+[I 240127 23:41:11 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/network.py' set to 'sent'.
+[I 240127 23:41:11 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/task.py' set to 'sent'.
+[I 240127 23:41:12 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/settings.json' set to 'sent'.
+[I 240127 23:41:12 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/main.py' set to 'sent'.
+[I 240127 23:41:13 database:75] Status for file path '/home/kali/Desktop/popcorn/client/backup/client.py' set to 'sent'.
+[W 240127 23:41:16 task:73] No new pen drive.
+[W 240127 23:41:26 task:73] No new pen drive.
+[W 240127 23:41:36 task:73] No new pen drive.
